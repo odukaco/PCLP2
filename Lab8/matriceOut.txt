@@ -1,0 +1,20 @@
+Submatrice:
+[1, 2]
+[4, 5]
+Suma = 12
+
+Submatrice:
+[2, 3]
+[5, 6]
+Suma = 16
+
+Submatrice:
+[4, 5]
+[1, 3]
+Suma = 13
+
+Submatrice:
+[5, 6]
+[3, 6]
+Suma = 20
+
